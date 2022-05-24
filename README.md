@@ -1,2 +1,2 @@
 # LS-Project
-ls project - flask api
+Lean Systems task - flask api
